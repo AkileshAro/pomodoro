@@ -1,0 +1,23 @@
+.card {
+  width: 600px;
+  margin: 40px;
+}
+
+.btn{
+  margin: 20px 0;
+}
+
+.card-header{
+  margin-bottom: 40px; 
+}
+
+.youtube-responsive-width {
+  width: 100%;
+  margin-bottom: 20px;
+}
+@media (max-width : 650px){
+  .card{
+    width: auto;
+    margin: 0;
+  }
+}
